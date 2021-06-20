@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Luanna! 👩‍💻
+
+### Analytics ⚙️
+  
+<p align="left">
+<a href="https://github.com/luanna-n">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=luanna-n&count_private=true&show_icons=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanna-n&layout=compact&langs_count=8"/>
+</a>
+</p>
+
 
 <!--
 **luanna-n/luanna-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
